@@ -1,0 +1,6 @@
+{
+  "name": "NER Landslide Early Warning & Risk Monitoring System",
+  "description": "AI-powered disaster-management platform for monitoring landslide risks across the North Eastern Region (NER) of India.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
